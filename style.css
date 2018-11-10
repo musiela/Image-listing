@@ -51,6 +51,7 @@ img:not(#logo):focus{
   box-shadow: 4px 12px 60px rgba(0, 0, 0, .15);
   transform: translate3D(0, -2px, 0);
 }
+
 img:not(#logo):hover{
   box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
   transform: translate3D(0, -2px, 0);
